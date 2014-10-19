@@ -10,7 +10,7 @@
 // Stop dragging highlight over images
 window.ondragstart = function() { return false; } ;
 
-/*
+/* 
 // Make all forms set onclicks to their buttons for submitting answer
 var answerButtons = document.getElementsByName("button");
 function addSubmit(buttonIndex) {
